@@ -1,2 +1,2 @@
 # petshop-web
-my portfolio using PHP native and SQL for database connection
+my backend-frontend portfolio using PHP native and SQL for database connection
