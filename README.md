@@ -4,5 +4,5 @@ Due to issue in my MySQL Workbench so it can't do CRUD automatically in CMS page
 
 For the first time (if you access the online demo at Heroku), you can enter CMS by:
 
-Username: linda
-Password: linda
+Username: petshop
+Password: petshop
